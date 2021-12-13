@@ -21,18 +21,7 @@
    21  cd ..
    22  cat ./step_repository/
    23  ls
-   24  ls
-   25  cd step_repository/
-   26  ls
-   27  cd test/
-   28  cat File.txt
-   29  cd ..
-   30  cd ..
-   31  cd ..
-   32  pwd
-   33  cd ./Desktop/13122021/
-   34  ls
-   35  ls
+
    36  cd ./Desktop/13122021/test/
    37  git status
    38  git status
