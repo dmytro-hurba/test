@@ -1,1 +1,88 @@
-My first commit
+﻿    1  pwd
+    2  cd ./Desktop/
+    3  copy NUL .gitconfig
+    4  git copy NUL .gitconfig
+    5  cd ..
+    6  ls
+    7  clear
+    8  git config –list--global
+    9  git status 
+   10  pwd
+   11  pwd
+   12  pwd
+   13  cd ./Desktop/
+   14  mkdir 13122021
+   15  ls
+   16  cd 13122021/
+   17  git clone https://github.com/dmytro-hurba/test.git
+   18  ls
+   19  history
+   20  history >> test/File.txt 
+   21  cd ..
+   22  cat ./step_repository/
+   23  ls
+   24  ls
+   25  cd step_repository/
+   26  ls
+   27  cd test/
+   28  cat File.txt
+   29  cd ..
+   30  cd ..
+   31  cd ..
+   32  pwd
+   33  cd ./Desktop/13122021/
+   34  ls
+   35  ls
+   36  cd ./Desktop/13122021/test/
+   37  git status
+   38  git status
+   39  cat File.txt 
+   40  history 
+   41  history > File.txt 
+    1  pwd
+    2  cd ./Desktop/
+    3  copy NUL .gitconfig
+    4  git copy NUL .gitconfig
+    5  cd ..
+    6  ls
+    7  clear
+    8  git config –list--global
+    9  git status 
+   10  pwd
+   11  pwd
+   12  pwd
+   13  cd ./Desktop/
+   14  mkdir 13122021
+   15  ls
+   16  cd 13122021/
+   17  git clone https://github.com/dmytro-hurba/test.git
+   18  ls
+   19  history
+   20  history >> test/File.txt 
+   21  cd ..
+   22  cat ./step_repository/
+   23  ls
+   24  ls
+   25  cd step_repository/
+   26  ls
+   27  cd test/
+   28  cat File.txt
+   29  cd ..
+   30  cd ..
+   31  cd ..
+   32  pwd
+   33  cd ./Desktop/13122021/
+   34  ls
+   35  ls
+   36  cd ./Desktop/13122021/test/
+   37  git status
+   38  git status
+   39  cat File.txt 
+   40  history 
+   41  history > File.txt 
+   42  cat File.txt 
+   43  clear
+   44  git status
+   45  history 
+   46  history >> File.txt
+47. Test 
