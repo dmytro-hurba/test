@@ -85,4 +85,4 @@
    44  git status
    45  history 
    46  history >> File.txt
-   47 rerere
+   47 rerere1
